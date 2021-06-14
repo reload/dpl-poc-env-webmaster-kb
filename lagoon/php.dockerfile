@@ -1,1 +1,1 @@
-FROM ghcr.io/reload/dpl-poc-webm-kb-php:2.0.2-0.0.1
+FROM ghcr.io/reload/dpl-poc-base-webmaster-php:0.0.3

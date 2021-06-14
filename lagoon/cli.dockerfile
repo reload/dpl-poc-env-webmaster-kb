@@ -1,1 +1,1 @@
-FROM ghcr.io/reload/dpl-poc-webm-kb-cli:2.0.2-0.0.1
+FROM ghcr.io/reload/dpl-poc-base-webmaster-cli:0.0.3

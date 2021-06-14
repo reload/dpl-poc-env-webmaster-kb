@@ -1,1 +1,1 @@
-FROM ghcr.io/reload/dpl-poc-webm-kb-nginx:2.0.2-0.0.1
+FROM ghcr.io/reload/dpl-poc-base-webmaster-nginx:0.0.3
